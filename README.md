@@ -18,3 +18,5 @@ Base のボタンを決めて共通化する。
 SerchInput の作成
 input は別のページでも使うため共通化したい。
 atom 配下に、input を追加
+
+32 33 organisms の作成
