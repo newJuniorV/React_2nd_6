@@ -20,3 +20,7 @@ input は別のページでも使うため共通化したい。
 atom 配下に、input を追加
 
 32 33 organisms の作成
+user/UserCard dir の作成と編集
+App.js から prpops を受け取るような形
+
+34 template の作成
